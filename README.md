@@ -1,3 +1,4 @@
-# ML-MNIST-
-利用pytorch
-手写数字识别，每行代码配有解释
+# Machine Learning Project
+一些简单的机器学习项目
+Computer Vision: Flower classfication
+                 MNIST
