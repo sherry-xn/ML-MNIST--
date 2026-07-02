@@ -5,7 +5,7 @@ link: https://www.kaggle.com/
 链接：https://www.kaggle.com/  
 
 ## Computer Vision:
-Flower Classfication：Tensorflow,CNN
+Flower Classfication：Tensorflow,CNN  
 MNIST:Pytorch,CNN
 
 ## Natural Language Processing
