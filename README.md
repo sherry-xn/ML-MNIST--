@@ -6,7 +6,7 @@ link: https://www.kaggle.com/
 
 ## Computer Vision:
 Flower Classfication：Tensorflow,CNN  
-MNIST:Pytorch,CNN
+MNIST: Pytorch,CNN
 
 ## Natural Language Processing
 Disaster Tweets: Tensorflow, BERT
